@@ -1,3 +1,3 @@
 # GitLessons
-Git é muito legal
+Git é demais
 
